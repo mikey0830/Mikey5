@@ -93,4 +93,4 @@ def main():
     write_results(output_file, student_averages, class_average, highest_student, highest_score, lowest_student, lowest_score)
 
 if __name__ == "__main__":
-    main()
+    main() 
